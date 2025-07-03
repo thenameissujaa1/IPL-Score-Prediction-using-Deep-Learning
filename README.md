@@ -1,4 +1,7 @@
 🏏 IPL Score Prediction
+
+
+
 This project focuses on building a machine learning model to predict the final score of an IPL (Indian Premier League) match based on real-time data such as overs, wickets, current run rate, and more.
 
 📌 Project Overview
